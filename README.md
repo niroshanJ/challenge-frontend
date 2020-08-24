@@ -23,7 +23,7 @@ This challenge is designed to test your familiarity with ReactJS, RESTful APIs, 
 - Presentation
 
 ### In order to complete this assessment you will need to: 
-- Create a pull request after completion
+- Create a public repository on github to host your codebase (Commit at each milestone)
 - Include setup instructions 
 - Include documentation in a standalone Markdown file 
 - Good to have a cloud based deployment of your code i.e heroku
