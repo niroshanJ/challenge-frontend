@@ -2,6 +2,8 @@
 
 This challenge is designed to test your familiarity with ReactJS, RESTful APIs, ES5, ES6 and overall coding standards and good practices. You will be required to create a single page application on ReactJS to manage a user profile.
 
+You will not require a dedicated state manager or database implementation for this.
+
 ### The application should be able to the following functions :
 - List users profiles
 - Create user profiles
