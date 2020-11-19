@@ -2,7 +2,9 @@
 
 This challenge is designed to test your familiarity with ReactJS, RESTful APIs, ES5, ES6 and overall coding standards and good practices. You will be required to create a single page application on ReactJS to manage a user profile.
 
-You will not require a dedicated state manager or database implementation for this.
+Please use React latest version is possible. Also if this is completed with React Hooks, HoCs, Redux, Redux Saga that will also showcase your competency.
+
+We'd like to see a clean implementation of class components/ functional components, action creators, reducers and hocs being used.
 
 ### The application should be able to the following functions :
 - List users profiles
@@ -20,6 +22,7 @@ You will not require a dedicated state manager or database implementation for th
 - Image
 
 ### Bonus points : 
+- Summary of user profiles in List user profiles screen using middleware
 - Image compression at client side while uploading
 - Coding standards and readability of code
 - Presentation
