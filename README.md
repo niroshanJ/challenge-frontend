@@ -16,9 +16,9 @@ Used Material UI frameword for React.JS. Material-UI is an open-source project t
 https://material-ui.com/
 ## Installation
 Clone the repository using:  
-`git clone https://github.com/niroshanJ/challenge-frontend.git`  
+`git clone https://github.com/niroshanJ/challenge-frontend.git`    
 Then run:  
-`npm install`  
+`npm install`    
 After finish:  
 `npm start`  
 ## Features
